@@ -29,6 +29,13 @@ Welcome to my Github Profile!
 ![Express](https://img.shields.io/badge/-Express-eee?style=flat&logo=Express&logoColor=000000)
 ![Laravel](https://img.shields.io/badge/-Laravel-7F1610?style=flat&logo=React&logoColor=FF2D20)
 
+
+
+Learned the basics, still need more practice:  
+![Python](https://img.shields.io/badge/-Python-00ADD8?style=flat&logo=Python&logoColor=3776AB)
+![Flutter](https://img.shields.io/badge/-Flutter-012B4D?style=flat&logo=Flutter&logoColor=02569B)
+![Golang](https://img.shields.io/badge/-Go-00566C?style=flat&logo=go&logoColor=00ADD8)
+
 ## 📊 GitHub Stats
 
 | Stats | Streak |
