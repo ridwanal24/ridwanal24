@@ -23,12 +23,11 @@ Welcome to my Github Profile!
 ![React](https://img.shields.io/badge/-React-306D7D?style=flat&logo=React&logoColor=61DAFB)
 ![VueJS](https://img.shields.io/badge/-Vue.js-276046?style=flat&logo=Vue.js&logoColor=4FC08D)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-035B6A?style=flat&logo=tailwindcss&logoColor=06B6D4)  
-![MySQL](https://img.shields.io/badge/-MySQL-223C50?style=flat&logo=mysql&logoColor=4479A1)
-![Redis](https://img.shields.io/badge/-Redis-7F221C?style=flat&logo=Redis&logoColor=FF4438)  
 ![NextJS](https://img.shields.io/badge/-NextJS-eee?style=flat&logo=next.js&logoColor=000000)
-![Express](https://img.shields.io/badge/-Express-eee?style=flat&logo=Express&logoColor=000000)
+![Express](https://img.shields.io/badge/-Express-eee?style=flat&logo=Express&logoColor=000000)   
 ![Laravel](https://img.shields.io/badge/-Laravel-7F1610?style=flat&logo=React&logoColor=FF2D20)
-
+![MySQL](https://img.shields.io/badge/-MySQL-223C50?style=flat&logo=mysql&logoColor=4479A1)
+![Redis](https://img.shields.io/badge/-Redis-7F221C?style=flat&logo=Redis&logoColor=FF4438)
 
 
 Learned the basics, still need more practice:  
