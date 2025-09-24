@@ -30,7 +30,7 @@ Welcome to my Github Profile!
 ![Redis](https://img.shields.io/badge/-Redis-7F221C?style=flat&logo=Redis&logoColor=FF4438)
 
 
-Learned the basics, still need more practice:  
+*Learned the basics, still need more practice:*  
 ![Python](https://img.shields.io/badge/-Python-00ADD8?style=flat&logo=Python&logoColor=3776AB)
 ![Flutter](https://img.shields.io/badge/-Flutter-012B4D?style=flat&logo=Flutter&logoColor=02569B)
 ![Golang](https://img.shields.io/badge/-Go-00566C?style=flat&logo=go&logoColor=00ADD8)
