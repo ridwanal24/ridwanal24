@@ -38,9 +38,15 @@ Learned the basics, still need more practice:
 
 ## 📊 GitHub Stats
 
-| Stats | Streak |
+### Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ridwanal24&show_icons=true&hide_border=true&theme=transparent)
+
+### Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ridwanal24&hide_border=true&theme=transparent)
+
+<!-- | Stats | Streak |
 |-------|--------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ridwanal24&show_icons=true&hide_border=true&theme=tokyonight) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ridwanal24&hide_border=true&theme=tokyonight) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ridwanal24&show_icons=true&hide_border=true&theme=transparent) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ridwanal24&hide_border=true&theme=transparent) | -->
 
 ## 📫 Let's Connect
 
