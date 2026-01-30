@@ -34,6 +34,7 @@ Welcome to my Github Profile!
 ![Redis](https://img.shields.io/badge/-Redis-7F221C?style=flat&logo=Redis&logoColor=FF4438)   
 ![NextJS](https://img.shields.io/badge/-NextJS-eee?style=flat&logo=next.js&logoColor=000000)
 ![Express](https://img.shields.io/badge/-Express-eee?style=flat&logo=Express&logoColor=000000)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=NestJS&logoColor=white)
 
 ## 📊 GitHub Stats
 
