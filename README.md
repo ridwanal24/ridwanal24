@@ -31,7 +31,7 @@ Welcome to my Github Profile!
 ![Python](https://img.shields.io/badge/-Python-00ADD8?style=flat&logo=Python&logoColor=3776AB)
 ![Flutter](https://img.shields.io/badge/-Flutter-012B4D?style=flat&logo=Flutter&logoColor=02569B)
 ![Golang](https://img.shields.io/badge/-Go-00566C?style=flat&logo=go&logoColor=00ADD8)
-![Redis](https://img.shields.io/badge/-Redis-7F221C?style=flat&logo=Redis&logoColor=FF4438)
+![Redis](https://img.shields.io/badge/-Redis-7F221C?style=flat&logo=Redis&logoColor=FF4438)   
 ![NextJS](https://img.shields.io/badge/-NextJS-eee?style=flat&logo=next.js&logoColor=000000)
 ![Express](https://img.shields.io/badge/-Express-eee?style=flat&logo=Express&logoColor=000000)
 
